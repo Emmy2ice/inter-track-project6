@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/inter-track-project6/static/css/main.56d28d34.css",
-    "main.js": "/inter-track-project6/static/js/main.a92edae3.js",
+    "main.css": "/inter-track-project6/static/css/main.dc4fdc88.css",
+    "main.js": "/inter-track-project6/static/js/main.b8733f88.js",
     "static/js/787.3004b6a0.chunk.js": "/inter-track-project6/static/js/787.3004b6a0.chunk.js",
     "index.html": "/inter-track-project6/index.html",
-    "main.56d28d34.css.map": "/inter-track-project6/static/css/main.56d28d34.css.map",
-    "main.a92edae3.js.map": "/inter-track-project6/static/js/main.a92edae3.js.map",
+    "main.dc4fdc88.css.map": "/inter-track-project6/static/css/main.dc4fdc88.css.map",
+    "main.b8733f88.js.map": "/inter-track-project6/static/js/main.b8733f88.js.map",
     "787.3004b6a0.chunk.js.map": "/inter-track-project6/static/js/787.3004b6a0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56d28d34.css",
-    "static/js/main.a92edae3.js"
+    "static/css/main.dc4fdc88.css",
+    "static/js/main.b8733f88.js"
   ]
 }
